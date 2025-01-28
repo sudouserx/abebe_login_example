@@ -1,17 +1,5 @@
-# abebe_login_example
+# Login Page Implementation
 
-A new Flutter project.
+[Screencast from 2025-01-28 16-08-40.webm](https://github.com/user-attachments/assets/a4ff4522-7923-434f-a0f7-f8f84016fa6f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# abebe_login_example
+This project demonstrates the integration of the [Abebe](https://github.com/sudouserx/Abebe) package in a Flutter application. The login page serves as an example of utilizing Abebe to provide an engaging and interactive user experience.
